@@ -1,0 +1,15 @@
+.Vector{
+    color:rgb(148, 236, 33);
+    font-size: 35px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: 0ch;
+}
+#all{
+    color:rgb(231, 14, 14);;
+    font-size: 50px;
+    font-weight: normal;
+    text-transform: uppercase;
+    
+
+}
